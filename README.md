@@ -24,10 +24,10 @@ JAVA_HOME="/usr/lib/jvm/java-21-openjdk-amd64"
 $ source /etc/environment
 
 # Dependencies 
--- Spring Data JPA (SQL)
--- H2 Database (SQL)
--- Rest Repositories (WEB)
--- Spring Web (WEB)
--- MariaDB Driver (SQL)
--- Docker Compose Support (Dev Tools)
--- Testcontainers (Testing)
+- Spring Data JPA (SQL)
+- H2 Database (SQL)
+- Rest Repositories (WEB)
+- Spring Web (WEB)
+- MariaDB Driver (SQL)
+- Docker Compose Support (Dev Tools)
+- Testcontainers (Testing)
