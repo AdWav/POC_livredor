@@ -22,3 +22,12 @@ JAVA_HOME="/usr/lib/jvm/java-21-openjdk-amd64"
 
 ### "Recharger" le fichier pour le mettre à jour par cette commande :
 $ source /etc/environment
+
+# Dependencies 
+Spring Data JPA
+H2 Database
+Rest Repositories
+Spring Web
+MariaDB Driver
+Docker Compose Support 
+Testcontainers <span style="color:blue">(Testing)</span>
