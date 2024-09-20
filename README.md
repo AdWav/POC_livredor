@@ -29,5 +29,7 @@ $ source /etc/environment
 - Rest Repositories (WEB)
 - Spring Web (WEB)
 - MariaDB Driver (SQL)
-- Docker Compose Support (Dev Tools)
+- Docker Compose Support (Dev Tools) --Ne pas Utiliser
 - Testcontainers (Testing)
+- Spring Security --A tester
+- OAuth2 Athentification Server --A tester
